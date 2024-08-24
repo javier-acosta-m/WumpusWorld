@@ -19,6 +19,3 @@ wumpus_gym_test.py: Sample gym run
 
 ## Author
 Javier Acosta
-
-## License
-Free
